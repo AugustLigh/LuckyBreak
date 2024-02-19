@@ -1,0 +1,12 @@
+name: LuckyBreak
+version: '${version}'
+author: august_light
+main: org.august.luckybreak.main.LuckyBreak
+api-version: '1.20'
+
+commands:
+  luckybreak:
+    description: "Prints a little help message."
+    usage: "/luckybreak"
+    aliases: [lb, luck]
+    permission: luckybreak.toggle

@@ -1,0 +1,4 @@
+activated: true
+drop_settings:
+  drop_egs: false
+  drop_requested: false
